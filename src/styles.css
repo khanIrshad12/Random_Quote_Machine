@@ -1,0 +1,19 @@
+* {
+  transition: all 0.75s;
+}
+.tumbler {
+  position: relative;
+  font-size: 20px;
+  padding-right: 20px;
+  float: right;
+  flex-direction: row-reverse;
+}
+.twitter {
+  position: relative;
+  font-size: 20px;
+  float: right;
+  flex-direction: row-reverse;
+}
+span {
+  padding-right: 10px;
+}
