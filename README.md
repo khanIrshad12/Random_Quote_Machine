@@ -1,2 +1,2 @@
 # Random_Quote_Machine
-Created with CodeSandbox
+This Project based on the random quotes with interactive User Interface
